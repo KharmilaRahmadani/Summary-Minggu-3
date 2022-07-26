@@ -5,6 +5,7 @@
 
 # ***DAY 2*** #
 **JavaScript Multidimensional Array**
+
 **Multidimensional Array** diibaratkan sama dengan **Matriks Matematika*
 
 ![Matriks](https://user-images.githubusercontent.com/109120017/180915241-99986b38-7085-4bdf-9ba9-2dc935039bb2.jpg)
@@ -13,10 +14,12 @@
 
 `Contoh Multidimensional Array :`
 
-![array](https://user-images.githubusercontent.com/109120017/180916918-87cd907a-7a22-4fd8-8db7-20591242c193.png)
+![array](https://user-images.githubusercontent.com/109120017/180918314-4fa31680-74d5-4419-b127-ae149ce0105d.png)
+
 
 **Penggunaan Map dalam Multidimensional Array**
-![anak](https://user-images.githubusercontent.com/109120017/180917239-84d6010d-db88-4db7-916f-b4969546eb71.png)
+![anak](https://user-images.githubusercontent.com/109120017/180918415-5f7000f1-8d45-4780-80f0-8cb45baf96ae.png)
+
 
 
 ## **JavaScript Object** ##

@@ -6,7 +6,7 @@
 # ***DAY 2*** #
 # **JavaScript Multidimensional Array** #
 
-**Multidimensional Array** diibaratkan sama dengan **Matriks Matematika*
+**Multidimensional Array** diibaratkan sama dengan **Matriks Matematika**
 
 ![Matriks](https://user-images.githubusercontent.com/109120017/180915241-99986b38-7085-4bdf-9ba9-2dc935039bb2.jpg)
 
@@ -90,6 +90,21 @@ Jadi tidak perlu mengakses data secara manual dengan memanggil setiap property-n
 
 ![loop2](https://user-images.githubusercontent.com/109120017/180925236-14768f75-4e43-4065-9be1-4343a03964df.png)
 
+# Array of Object #
+**Array of Object** = Ada banyak array dalam satu object
+
+`Contoh :`
+
+![aoo](https://user-images.githubusercontent.com/109120017/180925891-f94af48a-43ab-4fe2-b481-12d7a1211d67.png)
 
 
+# Git & GitHub Lanjutan #
+1. **Git log** = untuk menampilkan perubahan apa saja yang ada dalam sebuah project
+2. **Git log -- online** = hanya menampilkan git log pendek atau git log satu baris
+3. **Git Checkout** = Untuk berpindah branch atau membuat branch baru
+4. **Git Reset** = Mengembalikkan commit untuk semua file (kita bisa mengatur reset dari mana sampai mana)
+5. **Git Revert** = Membatalkan perubahan yang ada tanpa menghapus git commit sebelumnya
 
+Dalam menjalankan GitHub terdapat istilah :
+* Clone = meng-copy poject 1 menjadi project 2
+* Fork = Mirip seperti fungsi cloning namun fork digunakan untuk meng-copy file antar git. Fork dilakukan dengan meng-cloning langsung file dari repository git.

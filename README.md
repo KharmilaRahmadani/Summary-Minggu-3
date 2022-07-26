@@ -30,6 +30,16 @@ Objek di dunia nyata diibaratkan sebagai *PROGRAMMING*.
 Jadi, di dalam dunia programming, **OBJECT** = sebuah tipe data pada variabel yang menyimpan **property** dan **fungsi (method)**.
 >**Property** = Data yang melekat pada sebuah objek.
 >**Fungsi(Method)** = Hal yang dilakukan oleh sebuah objek (Aksi).
+Contoh :
 
-Contoh object dngan property dan nilai :
+![y](https://user-images.githubusercontent.com/109120017/180919062-17d43e6f-f7a2-4e23-af08-c0a1e3e16a6d.png)
+
+Contoh analogi lainnya perbedaan Property dan Method :
+
+![mobil](https://user-images.githubusercontent.com/109120017/180919280-f70f6412-5169-4dc6-a220-a661ee7a533e.png)
+
+>Note : Pendefinisian object diawali dengan kurung kurawal {}
+
+![fix](https://user-images.githubusercontent.com/109120017/180921907-a06e4744-bb3c-4d68-9d63-cd4c9e3b17b1.jpg)
+
 

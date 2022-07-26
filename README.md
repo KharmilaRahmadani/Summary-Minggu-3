@@ -42,4 +42,20 @@ Contoh analogi lainnya perbedaan Property dan Method :
 
 ![fix](https://user-images.githubusercontent.com/109120017/180921907-a06e4744-bb3c-4d68-9d63-cd4c9e3b17b1.jpg)
 
+**JavaScript Object** sama seperti **Array** yaitu memiliki beragam tipe data seperti number, string, dll.
+
+**Cara mengakses Object**
+1. Akses object secara keseluruhan
+
+![1](https://user-images.githubusercontent.com/109120017/180922488-302fc5f7-da7e-4afe-ad43-798e969860bd.png)
+
+2. Akses object data spesifik cara 1
+
+![2](https://user-images.githubusercontent.com/109120017/180922589-90ed0fc6-d263-43b9-9bdb-eecd698ece39.png)
+
+3. Akses object data spesifik cara 2
+
+![3](https://user-images.githubusercontent.com/109120017/180922662-b1bcc2ea-cbbc-4f4d-ac97-cf581c107912.png)
+
+
 

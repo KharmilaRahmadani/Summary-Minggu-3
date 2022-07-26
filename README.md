@@ -44,7 +44,7 @@ Contoh analogi lainnya perbedaan Property dan Method :
 
 **JavaScript Object** sama seperti **Array** yaitu memiliki beragam tipe data seperti number, string, dll.
 
-**Cara mengakses Object**
+###**Cara mengakses Object**###
 1. Akses object secara keseluruhan
 
 ![1](https://user-images.githubusercontent.com/109120017/180922488-302fc5f7-da7e-4afe-ad43-798e969860bd.png)
@@ -56,6 +56,22 @@ Contoh analogi lainnya perbedaan Property dan Method :
 3. Akses object data spesifik cara 2
 
 ![3](https://user-images.githubusercontent.com/109120017/180922662-b1bcc2ea-cbbc-4f4d-ac97-cf581c107912.png)
+
+###Update Object###
+`Update Object Dapat Dilakukan Berdasarkan :`
+* Object dapat mengupdate value dari key yang telah ada
+* Object dapat mengupdate value dari key yang baru
+
+Contoh Memperbarui/Update Object :
+
+![delete](https://user-images.githubusercontent.com/109120017/180923323-87e069a1-577d-4ac9-936f-8e606b8c8e30.png)
+
+Contoh Menampilkan key apa saja yang ada dalam object student :
+
+![console](https://user-images.githubusercontent.com/109120017/180923670-b3ca6582-fa47-4ad4-b696-d1c0e4447683.png)
+
+
+
 
 
 

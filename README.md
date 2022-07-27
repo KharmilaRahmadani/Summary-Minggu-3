@@ -117,4 +117,7 @@ Dalam menjalankan GitHub terdapat istilah :
 ![JS-Rekursif](https://user-images.githubusercontent.com/109120017/181136910-191e0049-637c-42b5-b70d-93e3f2061ea6.png)
 
 # **JavaScript Regex** #
-**JavaScript Regex** =
+**JavaScript Regex** = sebuah susunan karakter/deretan karakter spesial yang menggambarkan pattern/ pola untuk pencarian text pada sebuah string atau document.
+`Regex = Text Matching`
+
+

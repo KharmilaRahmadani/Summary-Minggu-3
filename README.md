@@ -108,3 +108,13 @@ Jadi tidak perlu mengakses data secara manual dengan memanggil setiap property-n
 Dalam menjalankan GitHub terdapat istilah :
 * Clone = meng-copy poject 1 menjadi project 2
 * Fork = Mirip seperti fungsi cloning namun fork digunakan untuk meng-copy file antar git. Fork dilakukan dengan meng-cloning langsung file dari repository git.
+
+
+# ***DAY 3*** #
+# **JavaScript Recursive** #
+**JavaScript Recursive** =
+
+![JS-Rekursif](https://user-images.githubusercontent.com/109120017/181136910-191e0049-637c-42b5-b70d-93e3f2061ea6.png)
+
+# **JavaScript Regex** #
+**JavaScript Regex** =
